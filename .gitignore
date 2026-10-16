@@ -3,3 +3,5 @@ sample.csv
 test.csv
 result.csv
 __pycache__/
+.venv/
+.ipynb_checkpoints/
